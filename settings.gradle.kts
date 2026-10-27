@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "PruebaAndroidStudio"
 include(":app")
 include(":ejercicios")
+include(":ejerciciost02")
